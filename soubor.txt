@@ -1,0 +1,10 @@
+ak; 5; kniha0; autor0; 1124; 360
+ak; 6; kniha1; autor1; 1243; 768
+pk; 7; kniha2; autor2; 213; 3200.8
+ek; 8; kniha3; autor3; 160; mobi
+ek; 9; kniha4; autor4; 195; mobi
+ek; 10; kniha5; autor5; 177; pdf
+pk; 11; kniha6; autor6; 677; 3650.3
+ak; 12; kniha7; autor7; 1327; 356
+pk; 13; kniha8; autor8; 635; 2226.9
+pk; 14; kniha9; autor9; 664; 4162.8
